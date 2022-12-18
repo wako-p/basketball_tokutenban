@@ -1,0 +1,2 @@
+class StartGameRequest:
+    pass
